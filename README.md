@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jibril Mohamod</h1>
+<h1 align="center">Hi 👋, I'm Jibril Mohamud</h1>
 <h3 align="center">A passionate Frontend developer from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibrilmohamod&label=Profile%20views&color=0e75b6&style=flat" alt="jibrilmohamod" /> </p>
