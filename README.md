@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Web Developer
 -----------------------
 
-* 🌍  I'm based in Na
+* 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [jibrilmohamud.me](http://www.jibrilmohamud.me/)
 * ✉️  You can contact me at [jazimjibril@gmail.com](mailto:jazimjibril@gmail.com)
 * 🚀  I'm currently working on [Parexellence](http://parexellence.com)
