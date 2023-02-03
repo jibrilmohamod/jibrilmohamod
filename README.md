@@ -5,7 +5,7 @@ FullStack Web Developer
 
 -----------------------
 
-* 🌍  I'm based in Nairobi
+* 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [jibrilmohamud.me](http://www.jibrilmohamud.me/)
 * ✉️  You can contact me at [jazimjibril@gmail.com](mailto:jazimjibril@gmail.com)
 * 🚀  I'm currently working on [Parexellence](http://parexellence.com)
