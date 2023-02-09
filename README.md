@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>* 🌍  I'm based in Nairobi <br>* 🖥️  See my portfolio at [jibrilmohamud.me](http://www.jibrilmohamud.me/)<br>* ✉️  You can contact me at [jazimjibril@gmail.com](mailto:jazimjibril@gmail.com)<br>* 🚀  I'm currently working on [Parexellence](http://parexellence.com)<br>* 🧠  I'm learning NodeJs, postgreSQL
+<br>* 🌍  I'm based in Nairobi, Kenya <br>* 🖥️  See my portfolio at [jibrilmohamud.me](http://www.jibrilmohamud.me/)<br>* ✉️  You can contact me at [jazimjibril@gmail.com](mailto:jazimjibril@gmail.com)<br>* 🚀  I'm currently working on [Parexellence](http://parexellence.com)<br>* 🧠  I'm learning NodeJs, postgreSQL
 
 
 ## 🌐 Socials:
